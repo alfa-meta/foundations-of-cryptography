@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "eb42342279ab14bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "83c099cde18b2590",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee71c91e8b66bd60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/Week 1 - Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1 - Introduction"
+            }
+          },
+          {
+            "id": "3d100f5e333bcfb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 2/Week 2 - Block Ciphers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 2 - Block Ciphers"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15c1f63edcbc0430",
+    "type": "split",
+    "children": [
+      {
+        "id": "b86db9ce2acce21e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43c7c6a50e4585fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3fba895c679a409e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cdebc496988b6594",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "54887926816546fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b8d92410a9c05f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "838c4332c8ed872f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Teaching/Educational Issues.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Educational Issues"
+            }
+          },
+          {
+            "id": "0536d225fdb5c25a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week 8/Key Management.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Key Management"
+            }
+          },
+          {
+            "id": "0f3807c394e4e2e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d696b8279a7a8745",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week 2/Week 2 - Block Ciphers.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Week 2 - Block Ciphers"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3d100f5e333bcfb4",
+  "lastOpenFiles": [
+    "Pasted image 20250426132934.png",
+    "Week 1/Week 1 - Introduction.md",
+    "Week 2/Week 2 - Block Ciphers.md",
+    "Pasted image 20250425114359.png",
+    "Week 2",
+    "Pasted image 20250424001527.png",
+    "Pasted image 20250424000812.png",
+    "Teaching/Educational Issues.md",
+    "Week 1",
+    "Teaching/Interview Questions.md",
+    "2025-04-09.md",
+    "Teaching",
+    "Untitled.canvas",
+    "Week 8/Key Management.md",
+    "Week 8/Session Keys.md",
+    "Week 8/3 Classification of Key Establishment.md",
+    "Week 8/Key Establishment.md",
+    "Untitled 1.md",
+    "Week 8"
+  ]
+}
