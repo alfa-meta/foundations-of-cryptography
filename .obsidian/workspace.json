@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2/Week 2 - Block Ciphers.md",
+                "file": "Week 3/Week 3 - Stream Ciphers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 2 - Block Ciphers"
+              "title": "Week 3 - Stream Ciphers"
             }
           }
         ],
@@ -186,9 +186,15 @@
   },
   "active": "3d100f5e333bcfb4",
   "lastOpenFiles": [
-    "Pasted image 20250426132934.png",
-    "Week 1/Week 1 - Introduction.md",
+    "Pasted image 20250503134741.png",
+    "Week 4/Week 4 - Public Key Encryption.md",
+    "Week 3/Week 3 - Stream Ciphers.md",
     "Week 2/Week 2 - Block Ciphers.md",
+    "Week 1/Week 1 - Introduction.md",
+    "Week 3",
+    "Pasted image 20250430151839.png",
+    "Week 4",
+    "Pasted image 20250426132934.png",
     "Pasted image 20250425114359.png",
     "Week 2",
     "Pasted image 20250424001527.png",
